@@ -1,0 +1,8 @@
+
+# ignoring pre-compiled files and folders
+__pycache__/
+*.py[cod]
+
+# ignoring other files and folders
+.cache*
+db.sqlite3
